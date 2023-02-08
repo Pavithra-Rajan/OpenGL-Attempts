@@ -34,3 +34,10 @@ To install OpenGL run the ```install.sh``` script.
 ![Pyramid](/10-pyramid/pyramid.png)
 ## Circle
 ![Circle](/11-circle/circle.png)
+## Sierpinski Triangle
+![Sierpinski](/12-sierpinski/sierpinski.png)
+## Repeating Triangle
+![Repeating](/13-repeating-triangle/repeating.png)
+## Rotating Triangle with timer
+![Rotate-1](/14-rotate-triangle/one.png)
+![Rotate-2](/14-rotate-triangle/two.png)

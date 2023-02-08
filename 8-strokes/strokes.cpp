@@ -17,7 +17,6 @@ void keyboard(unsigned char key, int x, int y) {
 
 void glutMotion(int x, int y) 
 {
-    //cout << "x: " << x << " y: " << y << endl;
     float H = glutGet(GLUT_WINDOW_HEIGHT);
     float W = glutGet(GLUT_WINDOW_WIDTH);
     float X = ((float)x - W / 2) / (W / 2);
